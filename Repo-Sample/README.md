@@ -43,7 +43,7 @@ to accommodate prolonged game play .</br>
 capable of accommodating multiple players while providing an intuitive and responsive
 game play experience.</br>
 
-3. Features:• The dartboard utilizes an input signal from a dart throw, represented as a time-varying
+3. Features:</br>• The dartboard utilizes an input signal from a dart throw, represented as a time-varying
 pointer that periodically navigates among four concentric target regions, illuminated by
 LEDs to indicate the pointer’s position.</br>
 • The scoreboard can accurately record at least 20 throws without risk of overflow, ensuring
