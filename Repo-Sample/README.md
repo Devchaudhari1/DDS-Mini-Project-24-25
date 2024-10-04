@@ -42,7 +42,6 @@ to accommodate prolonged game play .</br>
 • The overall objective is to develop a digital dart game that is both entertaining and
 capable of accommodating multiple players while providing an intuitive and responsive
 game play experience.</br>
-
 3. Features:</br>• The dartboard utilizes an input signal from a dart throw, represented as a time-varying
 pointer that periodically navigates among four concentric target regions, illuminated by
 LEDs to indicate the pointer’s position.</br>
