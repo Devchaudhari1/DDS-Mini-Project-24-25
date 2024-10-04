@@ -21,18 +21,27 @@ S2 T17
 ## Abstract
 <details>
   <summary>Detail</summary>
-  1. Motivation: A dart board game is a fun way to pass free time . Along with being fun ,it can
-be a useful tool to help hone certain skills within individual. It is a game of accuracy requiring
-perfection in timing .Through this project we are implementing a way to play dart game using
-digital circuits. Here by implementing a digital circuit with speed control and scoreboard we
-can easily record the score while also making appropriate changes in the game difficulty as the
-game progresses thus adding an extra layer of adaptibility and suspense !
-
-2. Problem Statement: The dart board game should be digital . It should accept a signal as
-an input source to simulate the throw of a dart on a dartboard. The dartboard should possess
-sufficiently large number of different target regions with the bulls eye being the most difficult
-to hit. There should be some variation in the game to add some difficulty . The scoreboard
-must record game points over a sufficiently large range without overflow.
+ 1. Motivation: A dart board game is not only a fun way to pass the time but also serves
+as an engaging tool to develop various skills in individuals. The implementation of a Finite
+State Machine (FSM)1 in the digital dart game serves as a robust framework to manage the
+various states of gameplay efficiently. This game emphasizes precision and timing, making
+it an excellent way to enhance focus and hand-eye coordination2. Through this project, we
+aim to create a digital version of the classic dart game using innovative digital circuits. By
+incorporating features like speed control and a dynamic scoreboard, players can easily track
+their scores while experiencing a customizable level of challenge as the game progresses. This
+adaptability adds an exciting layer of suspense and engagement to each round!
+2. Problem Statement:
+• The system must accept input signals that accurately represent dart throws on a virtual
+dartboard.
+• The dartboard must feature a sufficiently large number of distinct target regions, with
+the bullseye being the most challenging to hit.
+• Additionally, the game should introduce variations to increase difficulty, ensuring a stim-
+ulating experience for players.
+• The scoreboard must effectively record game points over a wide range, avoiding overflow
+to accommodate prolonged game play .
+• The overall objective is to develop a digital dart game that is both entertaining and
+capable of accommodating multiple players while providing an intuitive and responsive
+game play experience.
 
 3. Features: The dartboard uses the input signal of a dart which is thrown over as a time
 varying pointer pointing periodically between 4 target regions which are placed as concentric
