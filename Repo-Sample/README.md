@@ -30,29 +30,29 @@ aim to create a digital version of the classic dart game using innovative digita
 incorporating features like speed control and a dynamic scoreboard, players can easily track
 their scores while experiencing a customizable level of challenge as the game progresses. This
 adaptability adds an exciting layer of suspense and engagement to each round!</br>
-2. Problem Statement:
+2. Problem Statement:</br>
 • The system must accept input signals that accurately represent dart throws on a virtual
-dartboard.
+dartboard.</br>
 • The dartboard must feature a sufficiently large number of distinct target regions, with
-the bullseye being the most challenging to hit.
+the bullseye being the most challenging to hit.</br>
 • Additionally, the game should introduce variations to increase difficulty, ensuring a stim-
-ulating experience for players.
+ulating experience for players.</br>
 • The scoreboard must effectively record game points over a wide range, avoiding overflow
-to accommodate prolonged game play .
+to accommodate prolonged game play .</br>
 • The overall objective is to develop a digital dart game that is both entertaining and
 capable of accommodating multiple players while providing an intuitive and responsive
-game play experience.
+game play experience.</br>
 
 3. Features:• The dartboard utilizes an input signal from a dart throw, represented as a time-varying
 pointer that periodically navigates among four concentric target regions, illuminated by
-LEDs to indicate the pointer’s position.
+LEDs to indicate the pointer’s position.</br>
 • The scoreboard can accurately record at least 20 throws without risk of overflow, ensuring
-comprehensive tracking of player performance.
+comprehensive tracking of player performance.</br>
 • The dartboard includes a variable speed controller, allowing players to adjust the speed
-at which the pointer changes position, enhancing the challenge.
+at which the pointer changes position, enhancing the challenge.</br>
 • The game is designed for up to three players, promoting friendly competition and social
-interaction.
-• Penalty will be imposed on the player if the throw time limit is exceeded.
+interaction.</br>
+• Penalty will be imposed on the player if the throw time limit is exceeded.</br>
   > 
 </details>
 
