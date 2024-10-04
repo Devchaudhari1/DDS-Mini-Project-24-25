@@ -43,11 +43,16 @@ to accommodate prolonged game play .
 capable of accommodating multiple players while providing an intuitive and responsive
 game play experience.
 
-3. Features: The dartboard uses the input signal of a dart which is thrown over as a time
-varying pointer pointing periodically between 4 target regions which are placed as concentric
-circles lit by LEDs to signify the positioning of the pointer there. The scoreboard can record
-atleast 20 throws without overflow. The dartboard has a variable speed controller to change
-the speed of the pointer’s change in position. The game can be played by three players .
+3. Features:• The dartboard utilizes an input signal from a dart throw, represented as a time-varying
+pointer that periodically navigates among four concentric target regions, illuminated by
+LEDs to indicate the pointer’s position.
+• The scoreboard can accurately record at least 20 throws without risk of overflow, ensuring
+comprehensive tracking of player performance.
+• The dartboard includes a variable speed controller, allowing players to adjust the speed
+at which the pointer changes position, enhancing the challenge.
+• The game is designed for up to three players, promoting friendly competition and social
+interaction.
+• Penalty will be imposed on the player if the throw time limit is exceeded.
   > 
 </details>
 
