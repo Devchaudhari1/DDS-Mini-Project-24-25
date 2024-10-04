@@ -29,7 +29,7 @@ it an excellent way to enhance focus and hand-eye coordination2. Through this pr
 aim to create a digital version of the classic dart game using innovative digital circuits. By
 incorporating features like speed control and a dynamic scoreboard, players can easily track
 their scores while experiencing a customizable level of challenge as the game progresses. This
-adaptability adds an exciting layer of suspense and engagement to each round!
+adaptability adds an exciting layer of suspense and engagement to each round!</br>
 2. Problem Statement:
 • The system must accept input signals that accurately represent dart throws on a virtual
 dartboard.
