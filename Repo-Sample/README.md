@@ -8,7 +8,7 @@ S2 T17
 
   > Semester: 3rd Sem B. Tech. CSE
 
-  > Section: S1/S2
+  > Section: S2
 
   > Member-1:Dev Chaudhari , 231CS221 ,devchaudhari.231cs221@nitk.edu.in
 
