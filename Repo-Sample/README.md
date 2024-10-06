@@ -51,7 +51,6 @@ at which the pointer changes position, enhancing the challenge.</br>
 • The game is designed for up to three players, promoting friendly competition and social
 interaction.</br>
 • Penalty will be imposed on the player if the throw time limit is exceeded.</br>
-  > 
 </details>
 
 <!-- Third Section -->
